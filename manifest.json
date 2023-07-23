@@ -1,0 +1,9 @@
+{
+    "name": "SAMPLE-EXTENSION",
+    "description": "chrome拡張機能のサンプル",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
